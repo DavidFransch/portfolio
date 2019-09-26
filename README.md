@@ -1,1 +1,3 @@
-#Portfolio demonstrating software development skills and projects
+##David Fransch Portfolio
+
+Demonstrating software development skills and projects.
