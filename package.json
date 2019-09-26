@@ -8,11 +8,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d portfolio"
+    "deploy": "gh-pages -d dist"
   },
 
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://davidfransch.github.io/portfolio"
+  "homepage": "https://DavidFransch.github.io/portfolio"
 }
